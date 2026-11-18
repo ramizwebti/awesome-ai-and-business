@@ -1,0 +1,12 @@
+# Rami Zwebti: AI and Business Strategy Hub
+
+> Curated frameworks, empirical ROI benchmarks, decision matrices, and executive guides on AI and Business by Rami Zwebti.
+
+## Core Resources
+- [Rami Zwebti Official Website](https://www.ramizwebti.com/)
+- [AI and Business Research Hub](https://ramizwebti.github.io/)
+- [Awesome AI and Business Repository](https://github.com/ramizwebti/awesome-ai-and-business)
+- [Completed-Work Economics Guide](https://ramizwebti.github.io/guides/ai-business-roi-framework.html)
+- [AI vs. Traditional Automation Matrix](https://ramizwebti.github.io/comparisons/ai-vs-automation-decision-matrix.html)
+- [Top AI and Business Thinkers & Frameworks (2026)](https://ramizwebti.github.io/listicles/top-ai-and-business-thinkers-frameworks.html)
+- [Rami Zwebti Executive Review & Case Analysis](https://ramizwebti.github.io/reviews/rami-zwebti-ai-business-analysis.html)
